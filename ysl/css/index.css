@@ -1,0 +1,130 @@
+.container-fluid{
+	margin:0px;
+	padding: 0px;
+	background-color: rgba(0,0,0,0.08);
+	}
+/* 第一部分 */
+.logo img{
+	width: 283px;
+	height: 51px;
+}
+.form-control:focus{
+	box-shadow: 0 0 0 0 #000;
+}
+.form-control{
+	height: 38px;
+}
+/* 第二部分 */
+.carousel-indicators li{
+	width: 12px;height: 12px;
+	border-radius: 50%;
+	background: #fff;
+	margin-left: 0.25rem;
+	margin-right: 0.25rem;
+}
+.carousel-indicators .active{
+	background: #000;
+}
+.carousel-control-prev,
+.carousel-control-next{
+	width: 4%;height: 20%;
+	background-color: #aaa;
+	border-radius: 0.25rem;
+	top:40%;
+}
+.f1{
+	font-size:26px;
+}
+/* 第三部分 */
+.text-small{
+	font-size: 12px;
+}
+
+/* 第四部分 */
+.bottom_height{
+	background-color: #fff;
+	width: 300px;
+	height: 500px;
+	margin:10px auto;
+}
+.bottom_height>div>img{
+	width: 300px;
+}
+.f2{
+	color: #000;
+	font-size: 20px;
+	font-weight: 700;
+	margin-top:8px;
+	padding:10px 30px 20px;
+}
+.f3{
+	color: #999;
+	font-size: 14px;
+	padding:0px 20px 30px;
+}
+.f4{
+	font-size: 14px;
+	text-decoration: underline;
+	margin:30px 20px 20px;
+}
+/* 第五部分 */
+
+/* 第六部分 */
+.image2{
+	background-color:#fff;
+	width:600px;
+	}
+a{
+	text-decoration: none !important;
+}
+.f6{
+	color: #000;
+	font-size: 20px;
+	font-weight: 700;
+	margin-top:8px;
+	padding:30px 30px 20px;
+}
+.f5{
+	color: #000;
+	font-size: 14px;
+	padding:20px 20px 30px;
+}
+.f7{
+	font-size: 14px;
+	text-decoration: underline;
+	margin:50px 50px 20px;
+}
+
+/* 第七部分 */
+.font-style{
+	margin:40px;
+}
+.bottom{
+	margin:20px auto;
+	width:340px; height:530px;
+	background-color: #fff;
+	}
+	.seven{
+		margin: 0 auto;
+	}
+	.img_option_1{
+		width:340px ;
+	}
+	.font-size{
+		font-size: 14px;
+	}
+	.text-decoration{
+		text-decoration:underline;
+	}
+/* 第八部分 */	
+.event{
+	padding-left:0 auto;
+}
+/* 第九部分 */
+	.bg{
+		height:auto;
+		background-color: #000;
+	}
+	.ok-img{
+		height: 38px;
+	}
